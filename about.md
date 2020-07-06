@@ -15,12 +15,15 @@ I am a data scientist with a math and statistics background, currently working a
 ## Specific data science expertises
 
 - Statistical learning
-- Simulations
-- Skill rating and match making algorithms
-- Disruptive behavior detection
 - Problem specification and needs assessment
 - Complex problem solving
 - Advanced analytics
+- Simulation
+- Algorithm optimization
+- Skill rating and match making algorithms
+- Disruptive behavior detection
+- Unsupervised learning of playstyle
+
 
 ## Some links to music I've written
 
@@ -37,9 +40,21 @@ I am a data scientist with a math and statistics background, currently working a
 
 ###### Online skill rating algorithms (Joint Statistical Meeting, Denver CO, 08/2019)
 ###### On-line Partitioning of the Sample Space in the Regional Adaptive Algorithm (SSC annual meeting, Montréal QC, 06/2018)
+
+
+
 ###### Jeux vidéos et complexité / *Video games and complexity* (Club Math de l'Université de Montréal, 04/2018)
-###### Méthodes de Monte-Carlo par Chaînes de Markov: une introduction pour le mathématicien moyen / *Markov Chain Monte-Carlo methods: an introduction for the average mathematician* (Séminaire des étudiants gradués, Montréal, 08/2017)
-###### Quand le hasard fait bien les choses / *A matter of chance* (Club Math de l'Université de Montréal, 07/2015)
+
+I used parts of [this delightful article](https://arxiv.org/abs/1203.1895) proving the NP-hardness of classic video games as a pretext to introduce undergraduate science students to computational complexity theory. The talk (in french) is available [here](https://www.youtube.com/watch?v=97z25hJgbMg).
+
+###### Méthodes de Monte-Carlo par Chaînes de Markov adaptatives / *Adaptive Markov Chain Monte-Carlo methods* (Séminaire des étudiants gradués, Montréal, 11/2017)
+
+A presentation of the basics of adaptive MCMC (my master thesis topic) tailored to an audience of graduate mathematics students.
+
+###### Quand le hasard fait bien les choses / *A matter of chance* (Club Math de l'Université de Montréal, 08/2015)
+
+An introduction to the simulation of random variates, from uniform number generators to MCMC methods. 
+
 ###### La loi des petits nombres / *The law of small numbers* (Club Math de l'Université de Montréal, 07/2014)
 
 
