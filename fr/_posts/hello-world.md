@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello world!
+title: Bonjour monde
 category: Data Science
 tags: [Stats, Technical]
 lang: fr
