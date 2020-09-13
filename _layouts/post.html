@@ -17,8 +17,7 @@ layout: default
   </div>
 
   <div class="category">
-    Also in category <a href="{{ site.baseurl }}/categories#{{ page.category | slugify }}" class="post-category">{{ page.category }}</a>
-  </div>
+    Also in category {{ page.category }}
 
   {% include disqus.html %}
 </article>
