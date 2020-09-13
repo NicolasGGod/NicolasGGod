@@ -8,6 +8,26 @@ name: Nicolas GG
 # Short bio or description (displayed in the header)
 description: My modest blog about data science, music and everything really
 
+
+en:
+  description: My modest blog about data science, music and everything really
+  about: About
+  tags: Tags
+  tags_url: tags_fr
+  categories: Categories
+  categories_url: categories_fr
+  read_more : Read More
+
+  
+fr:
+  description: Un modeste blogue sur la science des données, la musique et un peu tout le reste
+  about: À propos
+  tags: Tags
+  tags_url: tags_fr
+  categories: Catégories
+  categories_url: categories_fr
+  read_more : Lire la suite
+
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 # avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
