@@ -19,23 +19,12 @@ Some key milestones from my studies:
 
 -   A few days in, I was convinced to take the statistics specialization, mostly on the back of a very convincing speech from a stats professor, plus a compelling quote/poster that was travelling around at the time, and which resonated strongly with me:
 
-<table style="width:7%;">
-<colgroup>
-<col width="6%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th align="center"><img src="../images/tukey_quote.png" alt="drawing" width="800"/></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="center"><em>Also note that the fence is low enough to quite easily jump from one backyard to the next.</em></td>
-</tr>
-</tbody>
-</table>
+|         ![tukeyquote](../images/tukey_quote.png)         |
+|:------------------------------------------------------------:|
+| *Also note that the fence is low enough to quite easily jump from one backyard to the next.* |
 
-My first contact with programming was during my second semester. It was a revelation, and greatly broadened my conception of what was possible to do with your humble PC. From there, I took all the optional computer science credits that my degree permitted, which amounted to almost a third of my classes. Needless to say, this prepared me well for my future DS job.
+
+- My first contact with programming was during my second semester. It was a revelation, and greatly broadened my conception of what was possible to do with your humble PC. From there, I took all the optional computer science credits that my degree permitted, which amounted to almost a third of my classes. Needless to say, this prepared me well for my future DS job.
 
 -   After my second year, I had a summer undergrad research scholarship, which was on MCMC methods applied to climate forecast. What I liked most about this academic episode was the healthy mix of article reading, theoretical work, programming, experimentation through simulation and data visualization. This balanced work flow felt so good, especially compared to the learn this-take exam paradigm of your typical undergrad semester. At that point, I knew that I would need such a diverse work agenda to be happy later on in any field.
 
@@ -43,14 +32,12 @@ My first contact with programming was during my second semester. It was a revela
 |:------------------------------------------------------------:|
 | *If this is not a balanced life style, I don't know what is* |
 
-As a bonus, the research went very well. I was lucky enough to not just *search* but also *find* a little something that would lead to a [publication](https://onlinelibrary.wiley.com/doi/abs/10.1002/cjs.11562?af=R) many years later. This fuelled enough curiosity for me to pursue with a masters degree in statistics.
+- As a bonus, the research went very well. I was lucky enough to not just *search* but also *find* a little something that would lead to a [publication](https://onlinelibrary.wiley.com/doi/abs/10.1002/cjs.11562?af=R) many years later. This fuelled enough curiosity for me to pursue with a masters degree in statistics.
 
 -   On paper, I totally nailed the master degree, but the first year of course work left me exhausted. The thesis part went really well, mostly because I was still banking on the neat little finding from my undergrad research. Still, it was clear that I wouldn't go farther down the academic lane for a time.
 
 > Me: Wow, we finally got that thing published... after having to add a whole new example, re-write two sections from scratch, being rejected once, going through two rounds of revisions... Is it always that complicated?
-
-> Supervisor: This one was actually one of the easiest publication processes I ever had.
-
+> Supervisor: Believe it or not, this actually was one of the easiest publication processes I ever had.
 > Me: (okay, I'm out.)
 
 Getting a job
@@ -58,21 +45,9 @@ Getting a job
 
 My entry job in the field happened through a strange coincidence. A few weeks before I submitted my thesis, my supervisor got a phone call from a data science team lead at Ubisoft Montreal, saying he was looking for smart people, whatever that was supposed to mean. Curious more than anything else, I contacted him and sent my resume. Upon reading the actual job offer, I was quite convinced that I would not make it, there were just all of these requirements about technologies that I had never heard about.
 
-<table style="width:7%;">
-<colgroup>
-<col width="6%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th align="center"><img src="../images/technologies.png" alt="requirements" /></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="center"><em>I could guess that the first two were related, but otherwise didn't have clue what these were!</em></td>
-</tr>
-</tbody>
-</table>
+|         ![techs](../images/technologies.png)         |
+|:------------------------------------------------------------:|
+| *I could somehow guess that the first two were related, but otherwise didn't have clue what these were!* |
 
 As it turns out, the interview was not focused at all on what I did or didn't know, but rather on assessing how well I mastered the stuff that I did claim to know. They also asked some questions on one or two business-oriented problems and me made me talk about relatively basic topics like linear regression and probability distributions, and that was it.
 
