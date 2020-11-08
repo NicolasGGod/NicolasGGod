@@ -22,7 +22,7 @@ Some key milestones from my studies:
 </colgroup>
 <thead>
 <tr class="header">
-<th align="center"><img src="../images/tukey_quote.png" alt="drawing" width="400"/></th>
+<th align="center"><img src="../images/tukey_quote.png" alt="drawing" width="800"/></th>
 </tr>
 </thead>
 <tbody>
