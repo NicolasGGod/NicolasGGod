@@ -82,4 +82,4 @@ In terms of daily tools, they are the usual DS arsenal Data manipulation through
 Closing words
 -------------
 
-Thanks for reading, I hope you were able to get something useful out of this. I'll to try to be back quickly with my run-down of the other more specific prompts.
+Thanks for reading, I hope you were able to get something useful out of this. I'll try to be back quickly with a rundown of the more specific prompts, in Q&A format!
