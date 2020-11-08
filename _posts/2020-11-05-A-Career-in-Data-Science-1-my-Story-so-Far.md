@@ -20,7 +20,7 @@ Some key milestones from my studies:
 
 -   A few days in, I was convinced to take the statistics specialization, mostly on the back of a very convincing speech from a stats professor, plus a compelling quote/poster that was travelling around at the time, and which resonated strongly with me:
 
-|         ![tukeyquote](../images/tukey_quote.png)         |
+|         ![tukeyquote](../images/tukey_quote.png =200x)         |
 |:------------------------------------------------------------:|
 | *Also note that the fence is low enough to quite easily jump from one backyard to the next.* |
 
