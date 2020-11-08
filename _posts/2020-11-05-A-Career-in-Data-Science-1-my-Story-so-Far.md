@@ -38,7 +38,9 @@ Some key milestones from my studies:
 -   On paper, I totally nailed the master degree, but the first year of course work left me exhausted. The thesis part went really well, mostly because I was still banking on the neat little finding from my undergrad research. Still, it was clear that I wouldn't go farther down the academic lane for a time.
 
 > Me: Wow, we finally got that thing published... after having to add a whole new example, re-write two sections from scratch, being rejected once, going through two rounds of revisions... Is it always that complicated?
+
 > Supervisor: Believe it or not, this actually was one of the easiest publication processes I ever had.
+
 > Me: (okay, I'm out.)
 
 Getting a job
@@ -61,7 +63,7 @@ What I do
 
 Like any data scientist, my general mandate is to acquire and manipulate data to create knowledge and generate added value.
 
-In a video game company like Ubisoft, the bulk of our data comes from our in-game tracking systems. Most of what the players do in the game, transactions, task completions, interactions, are tracked and stored in our database. This data is also supplemented by more qualitative data from surveys and external user tests.
+In a video game company like Ubisoft, the bulk of our data comes from our in-game tracking systems. Most of what the players do in the game, transactions, task completions, interactions, are tracked and stored in our database. This is also supplemented by more qualitative data from surveys and external user tests.
 
 It can then be used for many tasks:
 
@@ -73,11 +75,17 @@ My team and I are also to a certain extent the go-to math people in the studio, 
 
 Besides these more technical components, communication is also a key aspect. A significant share of my time is spent in meetings, disclosing results and advancement updates, sharing insights and good practices from one production to another, and finding interested stakeholders for R&D endeavours.
 
-Finally, like anyone in the field, I spend an embarrassing part of my time cleaning and wrestling with data tables, and I'm afraid you will too.
+Finally, like anyone in the field, I spend an embarrassing part of my time cleaning and wrestling with data tables, and I'm afraid [you will too](https://www.datanami.com/2020/07/06/data-prep-still-dominates-data-scientists-time-survey-finds/).
 
 ### Tools of the trade
 
-In terms of daily tools, they are the usual DS arsenal Data manipulation through SQL, pyspark, tidyverse Data exploration and simulation with Python and R Machine learning algorithms, supervised and unsupervised, mostly with sklearn General statistical inference, frequentist and Bayesian A bit of deep learning And of course, Excel, Powerpoint, Confluence and so on.
+In terms of my daily tools, it's a selection of the usual DS arsenal:
+
+- Data manipulation through SQL, pyspark, tidyverse 
+- Data exploration and simulation with Python and R 
+- Machine learning algorithms, supervised and unsupervised, mostly with sklearn 
+- General statistical inference, frequentist and Bayesian A bit of deep learning 
+- And of course, Excel, Powerpoint, Confluence and so on.
 
 Closing words
 -------------
