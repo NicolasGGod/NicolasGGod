@@ -1,7 +1,8 @@
 ---
 title: "A Career in Data Science, Part I: My Story so Far"
 date: "November 8 2020"
-
+category: Data Science
+tags: [Career]
 ---
 
 In a few weeks, I'll be invited by McGill university to a data science career Q&A session. And for the first time in my short life, I'll be the one providing the A's. To help in my preparation, the organizers kindly sent me a list of question prompts, the first of these being:
