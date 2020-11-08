@@ -1,3 +1,11 @@
+---
+title: "A Career in Data Science, Part I: My Story so Far"
+date: "November 8 2020"
+
+---
+
+
+
 A Career in Data Science, Part I: My Story so Far
 ================
 
