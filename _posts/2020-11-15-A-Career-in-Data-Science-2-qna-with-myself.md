@@ -8,7 +8,7 @@ tags: [Career]
 
 As promised, here is part 2 of my personal reflexion/written practice for the career in data science virtual Q&A session that I'll be... answering I guess, in a few days. I must say, the question prompts provided to me were excellent and indeed prompted me to systematically cover all of the important career aspects I could think of. Enjoy!
 
-**Disclaimer: ** *The field is very diverse and opinions on it as well. What follows is the result of my personal, sometimes subjective, and certainly limited view of this immense domain. I myself may not agree with some of this a few years from now, as data science evolves along with my view of it. And I strongly encourage anyone to make my take on the topic not be the only one that they read.*
+**Disclaimer:** *The field is very diverse and opinions on it as well. What follows is the result of my personal, sometimes subjective, and certainly limited view of this immense domain. I myself may not agree with some of this a few years from now, as data science evolves along with my view of it. And I strongly encourage anyone to make my take on the topic not be the only one that they read.*
 
 What is a typical career path? An atypical career path?
 -------------------------------------------------------
