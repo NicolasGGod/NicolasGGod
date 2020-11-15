@@ -37,10 +37,12 @@ This view though has been increasingly challenged recently as ignoring an import
 
 Now that we know what we're after, it should be pretty clear that a typical path would be one where you tackle the math, stats and programming early in your studies, and acquire specific domain knowledge during your first work experiences or graduate studies. As for the communication element, most of it comes with practice, so I'd just recommend to actively seek such practice opportunities throughout your studies and after. All of this being said, here is (at last) my rundown of the typical path:
 
--   **Undergraduate studies in computer science, statistics, engineering, or some mix of these.** There are now dedicated data science undergrad programs, but they are mostly just a mix of courses from these disciplines. I guess they work well since they essentially force you to have a broad exposition to all of the foundations, but you can do the same with any degree offering some flexibility. (So for example, maths/stats majors should actively seek classes in programming, data structures, machine learning etc. And computer-science majors should add some advanced probabilities, statistical models and optimisation classes to their curriculum.)
+-   **Undergraduate studies in computer science, statistics, engineering, or some mix of these.** There are now dedicated data science undergrad programs, but they are mostly just a mix of courses from these disciplines. I guess they work well since they essentially force you to have a broad exposition to all of the foundations, but you can do the same with any degree offering some flexibility.
+
 -   **A graduate degree in one of these disciplines. Alternatively, it could be a degree in an applied field where you deliberately orient your course work and research towards using data science to solve a domain specific issue.** At this stage, a dedicated data science masters does make sense, and excellent programs are starting to pop-up everywhere. If you already know what you want to specialize into (computer vision, NLP, RL, forecasting), it's a good idea to do so at this point, but staying broad is also ok. At the master level at least, there's no such thing as a wrong specialization choice, as developing the DS mindset and perfecting the core skills is what really matter, and this is quite transferable from one sub-domain to another.
 
 -   **A junior, temporary or internship position, possibly as part of a graduate program.** More on that in a later question.
+
 -   **From there, sky is the limit!** You may decide to specialise and focus your work on a sub-field or keep improving your general knowledge of the discipline and soft skills to become a consultant or a project/team manager.
 
 ### Atypical paths
@@ -84,13 +86,13 @@ Are freelance/consulting careers possible?
 
 Yes, but I do not have much visibility on these career paths. I would expect the challenges to be the same as for most self-employed jobs: knowing how to start, making and keeping contacts, managing your schedule and so on.
 
-What advice do you have for new graduates? Late bloomers? What are key entry level positions?
----------------------------------------------------------------------------------------------
+What advice do you have for new graduates? Late bloomers?
+---------------------------------------------------------
 
 ### New graduates
 
 -   Getting the first opportunity is one of the tougher step. Getting in touch personally with the teams your are interested in might be a good way to stand out among the pile of candidates that apply to any DS position.
--   Some will encourage you to have an attractive online portfolio of your graduate projects, or to show off some specific extra-curricular project (such as your entry in a Kaggle contest). It certainly helps in showcasing your project building skill, but it can work both ways. So if you do it, give it your best shot, and choose a challenge that your are passionate about. (It's quite easy for a DS team lead to spot a project that was done without passion.)
+-   Some will encourage you to have an attractive online portfolio of your graduate projects, or to show off some specific extra-curricular project (such as your entry in a Kaggle contest). It certainly helps in showcasing your project building skill, but it can work both ways. So if you do it, give it your best shot, and choose a challenge that your are passionate about.
 
 ### Late bloomers
 
@@ -118,8 +120,8 @@ What has failure taught you?
 
 First of all, I would only qualify an endeavor as a total failure if I fail to learn anything out of it. Otherwise, a certain share of drawbacks, mistakes and wasted efforts are just part of any hard work, so the best is just to not linger on them, learn what you can and turn the page. Nevertheless, there are good habits that help to avoid or at least minimize the impact of failures. Here are two that apply to many situations.
 
-1.  Start small: start with the simplest good solution to a problem, even if it's clearly not the best. Then work up from there and use it as a benchmark.
-2.  Fail fast: test your solutions, seek feedback, do it early and often.
+1.  Start small: start with the simplest good solution to a problem, even if it's clearly not the best, it might just be sufficient. If not, use it as a benchmark to evaluate the next steps.
+2.  Fail fast: test your solutions, seek feedback from peers and stakeholders, do it early and often.
 
 How has Covid 19 impacted your industry? Your job?
 --------------------------------------------------
@@ -129,7 +131,7 @@ Not that much I'd say. Like most, I am know often working from home and getting 
 Closing remarks
 ---------------
 
-Whew, this turned out to be quite a lot of text, I'll just leave you with a few general closing remarks to wrap this up:
+Thanks for reading! I'll just leave you with a few general closing remarks to wrap this up:
 
 -   An early and solid grasp on maths, stats and programming will get you a long way.
 -   Don't worry too much about mastering specific technologies before you need them, they might become obsolete soon enough.
