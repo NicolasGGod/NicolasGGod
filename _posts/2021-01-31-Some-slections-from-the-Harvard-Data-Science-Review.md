@@ -38,7 +38,7 @@ What if the trade-off between top accuracy and interpretability was greatly exag
 No big article stuck out in that issue for me, so I suggest this lighthearted yet solid meta-analysis of Oscar nominees' release timing!
 
 
-### [Doing Data Science on the Shoulders of Giants: The Value of Open Source Software for the Data Science Community](https://hdsr.mitpress.mit.edu/pub/xsrt4zs2/release/4)
+### Issue 2.2: [Doing Data Science on the Shoulders of Giants: The Value of Open Source Software for the Data Science Community](https://hdsr.mitpress.mit.edu/pub/xsrt4zs2/release/4)
 
 A guided tour of open source solutions, of the few individuals carrying a good share of the work, and of the merits and flaws (yes, there are some) of the paradigm.
 
@@ -49,7 +49,7 @@ A guided tour of open source solutions, of the few individuals carrying a good s
 [Toward Foundations for Data Science and Analytics: A Knowledge Framework for Professional Standards](https://hdsr.mitpress.mit.edu/pub/6wx0qmkl/release/3)
 
 
-### [The Importance of Being Causal](https://hdsr.mitpress.mit.edu/pub/wjhth9tr/release/1)
+### Issue 2.3: [The Importance of Being Causal](https://hdsr.mitpress.mit.edu/pub/wjhth9tr/release/1)
 
 An introduction to causal inference and how it's used in real business applications. Heavily recommended for anyone working with observational data (which, depending of where you work, probably represents between 95% and 100% of your whole data). Also, simply one of the most finely crafted introductory articles that I know of on any topic.
 
@@ -58,7 +58,7 @@ An introduction to causal inference and how it's used in real business applicati
 [Ten Research Challenge Areas in Data Science](https://hdsr.mitpress.mit.edu/pub/d9j96ne4/release/2)
 
 
-### [Selective Inference: The Silent Killer of Replicability](https://hdsr.mitpress.mit.edu/pub/l39rpgyc/release/1)
+### Issue 2.4 [Selective Inference: The Silent Killer of Replicability](https://hdsr.mitpress.mit.edu/pub/l39rpgyc/release/1)
 
 A delightful read, that starts with a concise retrospective of the inter-related replication and p-value crises, two nail-biting scientific sagas with far-reaching consequences. The author elegantly argues that unattended selective inference is the elephant in the room in both cases, and consequently points out that many of the recent campaigns against statistical significance have been somewhat off-target, and that some major publications are perhaps worse off than they were before the onset of the crises. Drama, you say?
 
